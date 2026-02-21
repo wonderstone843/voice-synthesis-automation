@@ -166,7 +166,7 @@ synth.generate(text, mode="production")
 - **15+ voice segments** per project
 - **44 video productions** completed
 - **80% cost reduction** vs manual voice-over
-- **7,400+ audience** built on AI-generated content
+- **9,400+ audience** built on AI-generated content
 
 ## API Reference
 
